@@ -1,0 +1,30 @@
+[
+  {
+    "id": "user-001",
+    "username": "viewer",
+    "password": "viewer123",
+    "displayName": "普通用户 · 航空爱好者",
+    "role": "user"
+  },
+  {
+    "id": "admin-001",
+    "username": "admin",
+    "password": "admin123",
+    "displayName": "管理员 · 图鉴维护员",
+    "role": "admin"
+  },
+  {
+    "id": "user-testuser-temp-mp9gimpg",
+    "username": "testuser_temp",
+    "password": "123456",
+    "displayName": "????",
+    "role": "user"
+  },
+  {
+    "id": "user-qazwsx-mp9gk5fq",
+    "username": "qazwsx",
+    "password": "123456",
+    "displayName": "qqqq",
+    "role": "user"
+  }
+]

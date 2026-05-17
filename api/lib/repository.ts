@@ -5,27 +5,33 @@ import { fileURLToPath } from 'node:url';
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 const rootDir = path.resolve(__dirname, '..', '..');
+const seedDir = path.join(rootDir, 'seed-data');
 
-export const dataDir = path.join(rootDir, 'data');
-export const uploadsDir = path.join(rootDir, 'public', 'uploads');
+export const dataDir = process.env.DATA_DIR
+  ? path.resolve(process.env.DATA_DIR)
+  : path.join(rootDir, 'data');
+export const uploadsDir = process.env.UPLOADS_DIR
+  ? path.resolve(process.env.UPLOADS_DIR)
+  : path.join(dataDir, 'uploads');
 
-const requiredFiles = [
-  path.join(dataDir, 'aircraft.json'),
-  path.join(dataDir, 'events.json'),
-  path.join(dataDir, 'experts.json'),
-  path.join(dataDir, 'users.json'),
-];
+const requiredFileNames = ['aircraft.json', 'events.json', 'experts.json', 'users.json'];
 
 export async function ensureDataFiles() {
   await fs.mkdir(dataDir, { recursive: true });
   await fs.mkdir(uploadsDir, { recursive: true });
 
   await Promise.all(
-    requiredFiles.map(async (filePath) => {
+    requiredFileNames.map(async (fileName) => {
+      const filePath = path.join(dataDir, fileName);
       try {
         await fs.access(filePath);
       } catch {
-        await fs.writeFile(filePath, '[]', 'utf-8');
+        const seedPath = path.join(seedDir, fileName);
+        try {
+          await fs.copyFile(seedPath, filePath);
+        } catch {
+          await fs.writeFile(filePath, '[]', 'utf-8');
+        }
       }
     }),
   );

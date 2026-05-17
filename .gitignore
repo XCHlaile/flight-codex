@@ -13,6 +13,8 @@ dist-ssr
 *.local
 public/uploads/*
 !public/uploads/.gitkeep
+data/uploads/*
+!data/uploads/.gitkeep
 
 # Editor directories and files
 .vscode/*

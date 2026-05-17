@@ -1,0 +1,350 @@
+[
+  {
+    "id": "j-20",
+    "name": "歼-20",
+    "englishName": "J-20 Mighty Dragon",
+    "category": "fighter",
+    "country": "中国",
+    "era": "2010年代",
+    "firstFlightYear": 2011,
+    "engineType": "双发涡扇发动机",
+    "maxSpeedKmh": 2450,
+    "rangeKm": 5500,
+    "lengthM": 20.4,
+    "wingspanM": 13.5,
+    "heightM": 4.45,
+    "crew": "1",
+    "imageUrl": "https://coresg-normal.trae.ai/api/ide/v1/text_to_image?prompt=stealth%20fighter%20jet%20on%20runway%20at%20dusk%2C%20modern%20chinese%20fifth%20generation%20aircraft%2C%20cinematic%20lighting%2C%20detailed%20aviation%20photography&image_size=landscape_16_9",
+    "summary": "中国第五代隐身战斗机代表型号，强调制空、远程打击与信息化作战能力。",
+    "tags": [
+      "隐身",
+      "战斗机",
+      "第五代"
+    ],
+    "relatedEventIds": [
+      "j20-first-flight"
+    ],
+    "relatedExpertIds": [
+      "song-wencong"
+    ]
+  },
+  {
+    "id": "f-22",
+    "name": "F-22 猛禽",
+    "englishName": "F-22 Raptor",
+    "category": "fighter",
+    "country": "美国",
+    "era": "1990年代",
+    "firstFlightYear": 1997,
+    "engineType": "双发加力涡扇发动机",
+    "maxSpeedKmh": 2410,
+    "rangeKm": 2960,
+    "lengthM": 18.9,
+    "wingspanM": 13.56,
+    "heightM": 5.08,
+    "crew": "1",
+    "imageUrl": "https://coresg-normal.trae.ai/api/ide/v1/text_to_image?prompt=advanced%20stealth%20fighter%20jet%20banking%20through%20clouds%2C%20high-detail%20aviation%20photo%2C%20dramatic%20light%2C%20military%20aircraft%20showcase&image_size=landscape_16_9",
+    "summary": "美国首款大规模服役的第五代隐身战斗机，以隐身、超巡和态势感知著称。",
+    "tags": [
+      "隐身",
+      "制空",
+      "超巡"
+    ],
+    "relatedEventIds": [
+      "f22-first-flight"
+    ],
+    "relatedExpertIds": [
+      "kelly-johnson"
+    ]
+  },
+  {
+    "id": "c919",
+    "name": "C919",
+    "englishName": "COMAC C919",
+    "category": "airliner",
+    "country": "中国",
+    "era": "2010年代",
+    "firstFlightYear": 2017,
+    "engineType": "双发涡扇发动机",
+    "maxSpeedKmh": 963,
+    "rangeKm": 5555,
+    "lengthM": 38.9,
+    "wingspanM": 35.8,
+    "heightM": 11.95,
+    "crew": "2",
+    "imageUrl": "https://coresg-normal.trae.ai/api/ide/v1/text_to_image?prompt=modern%20single-aisle%20airliner%20taxiing%20on%20airport%20apron%2C%20clean%20white%20livery%2C%20golden%20hour%20aviation%20photography%2C%20highly%20detailed&image_size=landscape_16_9",
+    "summary": "中国自主研制的干线客机，标志着国产民航大飞机能力进入新阶段。",
+    "tags": [
+      "客机",
+      "国产大飞机",
+      "民航"
+    ],
+    "relatedEventIds": [
+      "c919-first-flight"
+    ],
+    "relatedExpertIds": [
+      "wu-guanghui"
+    ]
+  },
+  {
+    "id": "boeing-747",
+    "name": "波音 747",
+    "englishName": "Boeing 747",
+    "category": "airliner",
+    "country": "美国",
+    "era": "1960年代",
+    "firstFlightYear": 1969,
+    "engineType": "四发涡扇发动机",
+    "maxSpeedKmh": 988,
+    "rangeKm": 13850,
+    "lengthM": 70.6,
+    "wingspanM": 64.4,
+    "heightM": 19.4,
+    "crew": "2",
+    "imageUrl": "https://coresg-normal.trae.ai/api/ide/v1/text_to_image?prompt=iconic%20jumbo%20jet%20taking%20off%2C%20classic%20widebody%20airliner%2C%20airport%20runway%2C%20sunset%20glow%2C%20documentary%20aviation%20photo&image_size=landscape_16_9",
+    "summary": "被誉为“空中女王”的经典宽体客机，深刻改变了全球民航远程运输格局。",
+    "tags": [
+      "宽体",
+      "远程",
+      "经典机型"
+    ],
+    "relatedEventIds": [
+      "boeing747-first-flight"
+    ],
+    "relatedExpertIds": [
+      "joe-sutter"
+    ]
+  },
+  {
+    "id": "concorde",
+    "name": "协和式",
+    "englishName": "Concorde",
+    "category": "airliner",
+    "country": "英法联合",
+    "era": "1960年代",
+    "firstFlightYear": 1969,
+    "engineType": "四发加力涡喷发动机",
+    "maxSpeedKmh": 2179,
+    "rangeKm": 7222,
+    "lengthM": 61.66,
+    "wingspanM": 25.56,
+    "heightM": 12.19,
+    "crew": "3",
+    "imageUrl": "https://coresg-normal.trae.ai/api/ide/v1/text_to_image?prompt=supersonic%20airliner%20with%20delta%20wing%20parked%20on%20runway%2C%20sleek%20white%20body%2C%20museum-grade%20aviation%20photography%2C%20crisp%20details&image_size=landscape_16_9",
+    "summary": "世界上最著名的超音速客机之一，以高速跨洋飞行能力和优雅外形闻名。",
+    "tags": [
+      "超音速",
+      "客机",
+      "纪录"
+    ],
+    "relatedEventIds": [
+      "concorde-record"
+    ],
+    "relatedExpertIds": [
+      "andre-turcat"
+    ]
+  },
+  {
+    "id": "a350",
+    "name": "空客 A350",
+    "englishName": "Airbus A350",
+    "category": "airliner",
+    "country": "欧洲",
+    "era": "2010年代",
+    "firstFlightYear": 2013,
+    "engineType": "双发涡扇发动机",
+    "maxSpeedKmh": 945,
+    "rangeKm": 16100,
+    "lengthM": 66.8,
+    "wingspanM": 64.75,
+    "heightM": 17.05,
+    "crew": "2",
+    "imageUrl": "https://coresg-normal.trae.ai/api/ide/v1/text_to_image?prompt=next-generation%20widebody%20airliner%20cruising%20above%20clouds%2C%20ultra-modern%20passenger%20jet%2C%20realistic%20aviation%20photography%2C%20bright%20sky&image_size=landscape_16_9",
+    "summary": "以复合材料与高燃油效率为特征的新一代远程宽体客机。",
+    "tags": [
+      "宽体",
+      "复合材料",
+      "远程航线"
+    ],
+    "relatedEventIds": [
+      "a350-first-flight"
+    ],
+    "relatedExpertIds": [
+      "guillaume-faury"
+    ]
+  },
+  {
+    "id": "y-20",
+    "name": "运-20",
+    "englishName": "Y-20 Kunpeng",
+    "category": "transport",
+    "country": "中国",
+    "era": "2010年代",
+    "firstFlightYear": 2013,
+    "engineType": "四发涡扇发动机",
+    "maxSpeedKmh": 830,
+    "rangeKm": 7800,
+    "lengthM": 47,
+    "wingspanM": 45,
+    "heightM": 15.5,
+    "crew": "3",
+    "imageUrl": "https://coresg-normal.trae.ai/api/ide/v1/text_to_image?prompt=large%20military%20transport%20aircraft%20on%20airbase%20taxiway%2C%20heavy%20cargo%20plane%2C%20cinematic%20clouds%2C%20realistic%20aviation%20photo&image_size=landscape_16_9",
+    "summary": "中国大型军用运输机，承担战略投送、空运和特种保障任务。",
+    "tags": [
+      "运输机",
+      "战略投送",
+      "大型军机"
+    ],
+    "relatedEventIds": [
+      "y20-first-flight"
+    ],
+    "relatedExpertIds": [
+      "tang-changhong"
+    ]
+  },
+  {
+    "id": "apache-ah64",
+    "name": "AH-64 阿帕奇",
+    "englishName": "AH-64 Apache",
+    "category": "helicopter",
+    "country": "美国",
+    "era": "1970年代",
+    "firstFlightYear": 1975,
+    "engineType": "双发涡轴发动机",
+    "maxSpeedKmh": 293,
+    "rangeKm": 476,
+    "lengthM": 17.76,
+    "wingspanM": 14.63,
+    "heightM": 4.95,
+    "crew": "2",
+    "imageUrl": "https://coresg-normal.trae.ai/api/ide/v1/text_to_image?prompt=attack%20helicopter%20hovering%20above%20desert%20terrain%2C%20rotor%20blur%2C%20high-detail%20military%20aviation%20photography%2C%20dramatic%20sunlight&image_size=landscape_16_9",
+    "summary": "经典武装直升机，以火力、传感器和战场生存能力见长。",
+    "tags": [
+      "直升机",
+      "武装直升机",
+      "近距支援"
+    ],
+    "relatedEventIds": [
+      "apache-first-flight"
+    ],
+    "relatedExpertIds": [
+      "igor-sikorsky"
+    ]
+  },
+  {
+    "id": "mi-8",
+    "name": "米-8",
+    "englishName": "Mil Mi-8",
+    "category": "helicopter",
+    "country": "苏联/俄罗斯",
+    "era": "1960年代",
+    "firstFlightYear": 1961,
+    "engineType": "双发涡轴发动机",
+    "maxSpeedKmh": 260,
+    "rangeKm": 610,
+    "lengthM": 18.17,
+    "wingspanM": 21.29,
+    "heightM": 5.65,
+    "crew": "3",
+    "imageUrl": "https://coresg-normal.trae.ai/api/ide/v1/text_to_image?prompt=utility%20helicopter%20landing%20in%20mountain%20terrain%2C%20transport%20rotorcraft%2C%20realistic%20field%20operation%20photo%2C%20clear%20detail&image_size=landscape_16_9",
+    "summary": "全球应用范围极广的多用途直升机，在运输、搜救和军用任务中都很常见。",
+    "tags": [
+      "直升机",
+      "多用途",
+      "运输"
+    ],
+    "relatedEventIds": [
+      "mi8-service-record"
+    ],
+    "relatedExpertIds": [
+      "mikhail-mil"
+    ]
+  },
+  {
+    "id": "mq-9",
+    "name": "MQ-9 死神",
+    "englishName": "MQ-9 Reaper",
+    "category": "drone",
+    "country": "美国",
+    "era": "2000年代",
+    "firstFlightYear": 2001,
+    "engineType": "单发涡桨发动机",
+    "maxSpeedKmh": 482,
+    "rangeKm": 1850,
+    "lengthM": 11,
+    "wingspanM": 20,
+    "heightM": 3.8,
+    "crew": "地面遥控",
+    "imageUrl": "https://coresg-normal.trae.ai/api/ide/v1/text_to_image?prompt=modern%20reconnaissance%20drone%20flying%20above%20open%20desert%2C%20long-endurance%20uav%2C%20sharp%20aviation%20photo%2C%20clean%20sky&image_size=landscape_16_9",
+    "summary": "长航时察打一体无人机，常用于侦察、监视与精确打击任务。",
+    "tags": [
+      "无人机",
+      "长航时",
+      "侦察"
+    ],
+    "relatedEventIds": [
+      "mq9-milestone"
+    ],
+    "relatedExpertIds": [
+      "abraham-karem"
+    ]
+  },
+  {
+    "id": "tb2",
+    "name": "TB2",
+    "englishName": "Bayraktar TB2",
+    "category": "drone",
+    "country": "土耳其",
+    "era": "2010年代",
+    "firstFlightYear": 2014,
+    "engineType": "单发活塞发动机",
+    "maxSpeedKmh": 222,
+    "rangeKm": 150,
+    "lengthM": 6.5,
+    "wingspanM": 12,
+    "heightM": 2.2,
+    "crew": "地面遥控",
+    "imageUrl": "https://coresg-normal.trae.ai/api/ide/v1/text_to_image?prompt=tactical%20uav%20on%20runway%20before%20takeoff%2C%20slender%20drone%20airframe%2C%20realistic%20aviation%20photo%2C%20sunrise%20light&image_size=landscape_16_9",
+    "summary": "中空长航时无人机的代表之一，以低成本和灵活部署受到关注。",
+    "tags": [
+      "无人机",
+      "察打一体",
+      "战术平台"
+    ],
+    "relatedEventIds": [
+      "tb2-milestone"
+    ],
+    "relatedExpertIds": [
+      "selcuk-bayraktar"
+    ]
+  },
+  {
+    "id": "sr-71",
+    "name": "SR-71 黑鸟",
+    "englishName": "SR-71 Blackbird",
+    "category": "fighter",
+    "country": "美国",
+    "era": "1960年代",
+    "firstFlightYear": 1964,
+    "engineType": "双发涡喷发动机",
+    "maxSpeedKmh": 3540,
+    "rangeKm": 5400,
+    "lengthM": 32.74,
+    "wingspanM": 16.94,
+    "heightM": 5.64,
+    "crew": "2",
+    "imageUrl": "https://coresg-normal.trae.ai/api/ide/v1/text_to_image?prompt=legendary%20high-speed%20reconnaissance%20aircraft%20in%20museum%20hangar%2C%20black%20sleek%20airframe%2C%20dramatic%20documentary%20lighting%2C%20ultra-detailed&image_size=landscape_16_9",
+    "summary": "以极高速度和高空侦察能力闻名的传奇飞机，是航空科技史上的标志性机型。",
+    "tags": [
+      "高速",
+      "侦察",
+      "传奇机型"
+    ],
+    "relatedEventIds": [
+      "sr71-record"
+    ],
+    "relatedExpertIds": [
+      "kelly-johnson"
+    ]
+  }
+]

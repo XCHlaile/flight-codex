@@ -141,7 +141,7 @@ export default function Compare() {
       winner: string;
       detail: string;
     } => Boolean(item));
-  }, [earliestFirstFlight, fastest, largestWingspan, longestRange, newestFirstFlight, selectedAircraft]);
+  }, [fastest, largestWingspan, longestRange, newestFirstFlight, selectedAircraft]);
 
   const narrativeSummary = useMemo(() => {
     const fastestAircraft = selectedAircraft.find((item) => item.id === fastest) || null;

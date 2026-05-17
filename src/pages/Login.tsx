@@ -1,6 +1,6 @@
 import { useMemo, useState } from 'react';
 import { Navigate, useNavigate, useSearchParams } from 'react-router-dom';
-import { LockKeyhole, ShieldCheck, UserPlus, UserRound } from 'lucide-react';
+import { LockKeyhole, ShieldCheck, UserRound } from 'lucide-react';
 import type { UserRole } from '../../shared/auth';
 import { login, registerUser } from '@/lib/api';
 import { useAuthStore } from '@/store/useAuthStore';

@@ -1,0 +1,135 @@
+[
+  {
+    "id": "song-wencong",
+    "name": "宋文骢",
+    "role": "飞机设计师",
+    "nationality": "中国",
+    "era": "当代",
+    "summary": "中国著名飞机设计师，长期参与先进战斗机型号的总体设计工作。",
+    "details": "宋文骢是中国航空工业中的代表性设计师之一，对新一代战斗机总体方案与型号推进具有深远影响，也常被公众视作中国现代战机发展史中的关键人物。",
+    "representativeAircraftIds": [
+      "j-20"
+    ]
+  },
+  {
+    "id": "wu-guanghui",
+    "name": "吴光辉",
+    "role": "民机总设计师",
+    "nationality": "中国",
+    "era": "当代",
+    "summary": "中国大型客机工程的重要技术领军人物，与 C919 项目密切相关。",
+    "details": "吴光辉在国产民机发展中承担了重要设计与工程组织角色，推动了大型客机项目在总体方案、适航推进与产业协同上的关键进展。",
+    "representativeAircraftIds": [
+      "c919"
+    ]
+  },
+  {
+    "id": "joe-sutter",
+    "name": "Joe Sutter",
+    "role": "民航飞机工程师",
+    "nationality": "美国",
+    "era": "20世纪",
+    "summary": "被称为“波音 747 之父”的航空工程师。",
+    "details": "Joe Sutter 主导了波音 747 的研发工作。他所代表的不仅是某一机型的成功，也体现了宽体客机设计对全球航空运输格局的深远影响。",
+    "representativeAircraftIds": [
+      "boeing-747"
+    ]
+  },
+  {
+    "id": "kelly-johnson",
+    "name": "Kelly Johnson",
+    "role": "传奇飞机设计师",
+    "nationality": "美国",
+    "era": "20世纪",
+    "summary": "洛克希德“臭鼬工厂”代表人物，参与多款高速与高性能飞机项目。",
+    "details": "Kelly Johnson 常被视作航空工程中的天才设计师，参与过 U-2、SR-71 等著名机型的设计理念形成，强调高性能目标与高效率工程文化。",
+    "representativeAircraftIds": [
+      "sr-71",
+      "f-22"
+    ]
+  },
+  {
+    "id": "igor-sikorsky",
+    "name": "Igor Sikorsky",
+    "role": "直升机先驱",
+    "nationality": "美国",
+    "era": "20世纪",
+    "summary": "现代实用直升机发展的先驱人物之一。",
+    "details": "Igor Sikorsky 对旋翼航空器的普及与工程化应用有关键贡献。虽然他并不直接对应 AH-64 时代，但其工作奠定了现代直升机产业发展的重要基础。",
+    "representativeAircraftIds": [
+      "apache-ah64"
+    ]
+  },
+  {
+    "id": "mikhail-mil",
+    "name": "Mikhail Mil",
+    "role": "直升机设计师",
+    "nationality": "苏联",
+    "era": "20世纪",
+    "summary": "米里设计局核心人物，与米系列直升机发展紧密相关。",
+    "details": "Mikhail Mil 的设计理念影响了多款苏联与俄罗斯直升机，其中米-8 作为应用极广的经典机型，成为其设计体系最直观的成果之一。",
+    "representativeAircraftIds": [
+      "mi-8"
+    ]
+  },
+  {
+    "id": "abraham-karem",
+    "name": "Abraham Karem",
+    "role": "无人机工程师",
+    "nationality": "美国",
+    "era": "当代",
+    "summary": "现代长航时无人机设计的重要推动者之一。",
+    "details": "Abraham Karem 被许多人视作现代长航时无人机概念的关键推动者，其设计思想影响了后续多代察打一体无人机的发展路线。",
+    "representativeAircraftIds": [
+      "mq-9"
+    ]
+  },
+  {
+    "id": "selcuk-bayraktar",
+    "name": "Selcuk Bayraktar",
+    "role": "无人机项目推动者",
+    "nationality": "土耳其",
+    "era": "当代",
+    "summary": "Bayraktar 系列无人机的重要推动者，提升了无人机平台的国际关注度。",
+    "details": "Selcuk Bayraktar 的工作让低成本无人机平台在战术层面的可见度大幅提升，也反映出无人机工业对现代航空叙事的影响正在持续扩大。",
+    "representativeAircraftIds": [
+      "tb2"
+    ]
+  },
+  {
+    "id": "tang-changhong",
+    "name": "唐长红",
+    "role": "大型运输机总设计师",
+    "nationality": "中国",
+    "era": "当代",
+    "summary": "中国大型运输机工程的重要技术骨干人物。",
+    "details": "唐长红长期参与大型飞机工程，对运-20 等项目的总体设计与工程推进具有重要贡献，是中国大型运输平台发展中的代表人物之一。",
+    "representativeAircraftIds": [
+      "y-20"
+    ]
+  },
+  {
+    "id": "andre-turcat",
+    "name": "Andre Turcat",
+    "role": "试飞员",
+    "nationality": "法国",
+    "era": "20世纪",
+    "summary": "协和式试飞史上的关键人物之一。",
+    "details": "Andre Turcat 作为协和式原型机的试飞员，见证了超音速客机从工程概念走向实际飞行的历史时刻，也让“试飞员”这一航空角色更加被公众认识。",
+    "representativeAircraftIds": [
+      "concorde"
+    ]
+  },
+  {
+    "id": "guillaume-faury",
+    "name": "Guillaume Faury",
+    "role": "航空工业管理者",
+    "nationality": "法国",
+    "era": "当代",
+    "summary": "空客体系中的关键管理与技术推动人物之一。",
+    "details": "Guillaume Faury 长期在欧洲航空工业体系中担任重要角色，虽并非单一机型设计师，但代表了现代大型客机项目中的系统工程与产业协同能力。",
+    "representativeAircraftIds": [
+      "a350"
+    ]
+  }
+]
